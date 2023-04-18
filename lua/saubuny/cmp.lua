@@ -99,7 +99,7 @@ cmp.setup({
 	}, {
 		{ name = "luasnip" },
 	}, {
-		-- { name = 'path' }
+		{ name = "path" },
 	}, {
 		{ name = "nvim_lua" },
 	}, {
