@@ -103,7 +103,6 @@ return packer.startup(function(use)
 	use("saadparwaiz1/cmp_luasnip") -- Luasnip completions
 	use("hrsh7th/cmp-nvim-lua") -- Vim's api
 	use("KadoBOT/cmp-plugins") -- Plugins
-	use("rafamadriz/friendly-snippets") -- Plugins
 
 	-- Snippets
 	use("L3MON4D3/LuaSnip") -- Snippet engine
