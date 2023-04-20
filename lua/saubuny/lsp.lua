@@ -176,10 +176,10 @@ lsp["tsserver"].setup({
 })
 
 -- Tailwind
--- lsp["tailwindcss"].setup({
--- 	on_attach = on_attach,
--- 	capabilities = capabilities,
--- })
+lsp["tailwindcss"].setup({
+	on_attach = on_attach,
+	capabilities = capabilities,
+})
 
 -- Svelte
 lsp["svelte"].setup({
